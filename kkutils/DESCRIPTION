@@ -4,9 +4,11 @@ Version: 0.0.0.9000
 Authors@R: person("K", "Kruups", email = "kkruups@private.com", role = c("aut", "cre"))
 Description: Sets localhost to noproxy and system environment to english.
 BugReports: https://github.com/kkruups/kkutils/issues
-Depends:
-    R (>= 3.2.4)
+Depends: R (>= 3.2.4)
 License: GPL
 LazyData: true
 RoxygenNote: 5.0.1.9000
 Suggests: httr
+Author: K Kruups [aut, cre]
+Maintainer: K Kruups <kkruups@private.com>
+Built: R 3.2.4; ; 2016-05-26 01:22:11 UTC; windows
